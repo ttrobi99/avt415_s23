@@ -4,8 +4,8 @@
 html {font-size: 100%;} /*16px*/
 
 body {
-  background-color: #b09bbd;
-  color: #181354;
+  background-color: #e07083;
+  color: #f5d7d7;
   margin: 0;
   padding: 50px;
   line-height: 1.75;
@@ -13,6 +13,9 @@ body {
 h1 {
 
   font-size: 5em;
+  font-family: "lust-script-display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h2 {font-size: 3em;
