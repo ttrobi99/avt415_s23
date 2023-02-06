@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {font-size: 100%;} /*16px*/
+
+body {
+  background-color: #cf959f;
+  color: #f5d7d7;
+  margin: 0;
+  padding: 50px;
+  line-height: 1.75;
+}
+h1 {
+  color: #8681c9;
+  font-size: 4.5em;
+  font-family: "lust-script-display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {font-size: 2.5em;
+  font-family: "lust-script-display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+h4 {font-size: 1.5em;
+margin-top: 0;
+
+}
+
+dt {
+	font-size: 2em;
+	font-weight: bold;
+}
